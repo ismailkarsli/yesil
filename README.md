@@ -5,8 +5,7 @@ Yeşil siteyi geliştiren özellikler
 ## Install
 
 - Firefox: <https://addons.mozilla.org/en-US/firefox/addon/yesil/>
-- Chrome: <https://chromewebstore.google.com/detail/yesil/ochiknnmgneaijepaphkhiphdfokjaah>
-- Userscript: <https://github.com/ismailkarsli/yesil/raw/main/yesil.user.js>
+- Chrome: <https://chromewebstore.google.com/detail/yesil(cfbimojpjjpkcidbhcidhndkbopmbhae/>
 
 ## Build
 

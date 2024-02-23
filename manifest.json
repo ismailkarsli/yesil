@@ -4,7 +4,9 @@
 	"version": "1.0.0",
 	"description": "Yeşil siteyi geliştiren özellikler.",
 	"icons": {
-		"48": "icons/48.png"
+		"48": "icons/48.png",
+		"128": "icons/128.png",
+		"512": "icons/512.png"
 	},
 	"content_scripts": [
 		{
@@ -20,9 +22,19 @@
 	"host_permissions": [
 		"*://*.eksisozluk.com/*"
 	],
+	"permissions": [
+		"storage"
+	],
+	"action": {
+		"default_icon": {
+			"48": "icons/48.png"
+		},
+		"default_title": "Yeşil",
+		"default_popup": "popup.html"
+	},
 	"browser_specific_settings": {
 		"gecko": {
-			"id": "{e2a9c744-9b82-418f-bced-5c0d83316ac0}",
+			"id": "{1b251417-b6a2-482a-b73e-4fd06ba0f456}",
 			"strict_min_version": "116.0"
 		}
 	}

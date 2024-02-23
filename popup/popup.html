@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Chrome Extension</title>
+    <meta charset="utf-8" />
+    <style>
+      body {
+        background-color: #2d2d2d;
+        color: white;
+      }
+    </style>
+  </head>
+  <body style="padding: 0px 10px; width: 400px">
+    <h3 style="padding: 0 16px; user-select: none">Yeşil Ayarları</h3>
+    <hr />
+    <div style="display: flex; flex-direction: column">
+      <label>
+        <input id="fetchEntriesDynamically" type="checkbox" />
+        yeni entryleri dinamik olarak getir
+      </label>
+      <label>
+        <input id="updateCurrentEntries" type="checkbox" />
+        mevcut entryleri güncelle
+      </label>
+      <label>
+        <input id="highlightChanges" type="checkbox" />
+        güncellenen parçaları vurgula
+      </label>
+    </div>
+    <script type="module" src="popup.js"></script>
+  </body>
+</html>
