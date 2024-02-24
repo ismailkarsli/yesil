@@ -2,7 +2,7 @@
 	"manifest_version": 3,
 	"name": "Yeşil",
 	"version": "1.0.0",
-	"description": "Yeşil siteyi geliştiren özellikler.",
+	"description": "Yeşil siteyi geliştiren birtakım özellikler",
 	"icons": {
 		"48": "icons/48.png",
 		"128": "icons/128.png",

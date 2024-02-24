@@ -15,7 +15,6 @@ import customParseFormat from "dayjs/plugin/customParseFormat";
 dayjs.extend(customParseFormat);
 
 const browserApi = "browser" in globalThis ? browser : chrome;
-
 const domParser = new DOMParser();
 
 export class Yesil {
