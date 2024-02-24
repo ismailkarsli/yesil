@@ -9,7 +9,7 @@ Yeşil siteyi geliştiren birtakım özellikler. Şu an için:
 ## Kurulum
 
 - Firefox: <https://addons.mozilla.org/en-US/firefox/addon/yesil/>
-- Chrome: <https://chromewebstore.google.com/detail/yesil(cfbimojpjjpkcidbhcidhndkbopmbhae/>
+- Chrome: <https://chromewebstore.google.com/detail/yeşil/cfbimojpjjpkcidbhcidhndkbopmbhae>
 
 ## Derleme
 
