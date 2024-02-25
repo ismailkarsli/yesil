@@ -1,7 +1,7 @@
 {
 	"manifest_version": 3,
 	"name": "Yeşil",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Yeşil siteyi geliştiren birtakım özellikler",
 	"icons": {
 		"48": "icons/48.png",
@@ -35,7 +35,7 @@
 	"browser_specific_settings": {
 		"gecko": {
 			"id": "{1b251417-b6a2-482a-b73e-4fd06ba0f456}",
-			"strict_min_version": "116.0"
+			"strict_min_version": "120.0"
 		}
 	}
 }
