@@ -29,7 +29,7 @@ export const isElementInViewport = (el: HTMLElement) => {
 };
 
 export const isEksiSlug = (slug: string) => {
-	return /(?<slug>[a-z-]+)--(?<entryId>[1-9]+)/.test(slug);
+	return /(?<slug>[\w\d-]+)--(?<entryId>\d+)/.test(slug);
 };
 
 export const isEksiEntryPath = (path: string) => {
